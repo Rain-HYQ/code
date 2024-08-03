@@ -4,3 +4,5 @@ for c in range(0 , 36):
         print('鸡的数量是'+str(c))
         print('兔的数量是'+str(r))
 print('hello word！')
+
+
